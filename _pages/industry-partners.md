@@ -2,7 +2,7 @@
 title: "Industry partners"
 layout: single
 classes: wide
-permalink: /industry-partners/
+permalink: /partners/
 feature_row_governamental:
 
   - image_path: /assets/images/partners/gemeente_ams.png
@@ -27,13 +27,13 @@ feature_row_industrial:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/partners/demcon.jpg
-    title: "Municipality of Amsterdam"
+    title: "DEMCON"
     url: "https://www.amsterdam.nl/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/partners/zoev.jpg
-    title: "AMS Institute"
+    title: "ZOEV City"
     url: "https://www.ams-institute.org/"
     btn_label: "Read More"
     btn_class: "btn--primary"
