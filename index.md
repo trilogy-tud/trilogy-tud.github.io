@@ -8,9 +8,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/back-ams.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Sustainable Transportation and Logistics Over Water: <br/>Electrification, Automation, and Optimization"
 intro: 
   - excerpt: 'TRiLOGy will unlock the potential of transportation and logistics in urban waterways with electric and autonomous vessels by enabling safer, more sustainable and efficient operations.'
@@ -56,15 +53,9 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 
 # Partners
 
