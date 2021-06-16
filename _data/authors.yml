@@ -1,0 +1,97 @@
+bilge:
+  name        : "Bilge Atasoy"
+  bio         : "Assistant professor"
+  avatar      : "/assets/images/bio/bio-photo-bilge.jpg"
+  affiliation : "TU Delft"
+  module      : "Fleet Management"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:B.Atasoy@tudelft.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://brenobeirigo.com"
+
+javier:
+  name        : "Javiar Alonso-Mora"
+  bio         : "Associate professor"
+  avatar      : "/assets/images/bio/bio-photo-javier.jpg"
+  affiliation : "TU Delft"
+  module      : "Automation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:J.Alonso-Mora@tudelft.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://brenobeirigo.com"
+
+rudy:
+  name        : "Rudy R. Negenborn"
+  bio         : "Full Professor of Multi-Machine Operations & Logistics"
+  avatar      : "/assets/images/bio/bio-photo-rudy.jpg"
+  affiliation : "TU Delft"
+  module      : "Fleet Management"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:R.R.Negenborn@tudelft.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://negenborn.net/"
+
+robert:
+  name        : "Robert Babuska"
+  bio         : "Full Professor of Intelligent Control and Robotics at TU Delft"
+  avatar      : "/assets/images/bio/bio-photo-robert.jpg"
+  affiliation : "TU Delft"
+  module      : "Automation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:R.R.Negenborn@tudelft.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://negenborn.net/"
+
+breno:
+  name        : "Breno A. Beirigo"
+  bio         : "Postdoctoral researcher"
+  avatar      : "/assets/images/bio/bio-photo-breno.jpg"
+  affiliation : "TU Delft"
+  module      : "Fleet Management"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:B.AlvesBeirigo@tudelf.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://brenobeirigo.com"
+      
+cigdem:
+  name        : "Çiğdem Karademir"
+  bio         : "PhD candidate"
+  avatar      : "/assets/images/bio/bio-photo-cigdem.jpg"
+  affiliation : "TU Delft"
+  module      : "Fleet Management"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:B.Atasoy@tudelft.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://brenobeirigo.com"
+
+elia:
+  name        : "Elia Trevisan"
+  bio         : "PhD candidate"
+  avatar      : "/assets/images/bio/bio-photo-elia.jpg"
+  affiliation : "TU Delft"
+  module      : "Automation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:B.Atasoy@tudelft.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://brenobeirigo.com"

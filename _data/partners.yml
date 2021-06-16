@@ -1,0 +1,34 @@
+gemeente:
+  logo: /assets/images/partners/gemeente_ams.png
+  name: "Municipality of Amsterdam"
+  url: "https://www.amsterdam.nl/"
+
+ams:
+  logo: /assets/images/partners/ams.png
+  name: "AMS Institute"
+  url: "https://www.ams-institute.org/"
+
+ff:
+  logo: /assets/images/partners/ff.svg
+  name: "Flying Fish"
+  url: "https://www.flying-fish.tech/"
+
+demcon:
+  logo: /assets/images/partners/demcon.jpg
+  name: "Municipality of Amsterdam"
+  url: "https://www.amsterdam.nl/"
+
+zoev:
+  logo: /assets/images/partners/zoev.jpg
+  name: "AMS Institute"
+  url: "https://www.ams-institute.org/"
+
+delft:
+  logo: /assets/images/partners/tud.png
+  name: "Delft University of Technology"
+  url: "https://www.tudelft.nl/"
+
+mit:
+  logo: /assets/images/partners/mit.svg
+  name: "Massachusets Institute of Technology"
+  url: "https://www.tudelft.nl/"

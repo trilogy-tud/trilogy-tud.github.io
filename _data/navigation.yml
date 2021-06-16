@@ -1,17 +1,12 @@
 # main links
 main:
-  - title: "Project"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Modules"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-    children:
-      - title: "Automation"
-        url: /child-1-page-url/
-      - title: "Fleet management"
-        url: /child-2-page-url/
-  - title: "Research team"
-    url: /year-archive/
-  - title: "Industry partners"
-    url: /collection-archive/
   - title: "About"
-    url: /sitemap/
+    url: /about/
+  - title: "Use cases"
+    url: /use-cases/
+  - title: "Research team"
+    url: /team/
+  - title: "Partners"
+    url: /partners/
+  - title: "Contact"
+    url: /contact/
