@@ -16,12 +16,12 @@ ff:
 demcon:
   logo: /assets/images/partners/demcon.jpg
   name: "Municipality of Amsterdam"
-  url: "https://www.amsterdam.nl/"
+  url: "https://demcon.com/"
 
 zoev:
   logo: /assets/images/partners/zoev.jpg
   name: "AMS Institute"
-  url: "https://www.ams-institute.org/"
+  url: "https://www.zoevcity.nl/"
 
 delft:
   logo: /assets/images/partners/tud.png
@@ -31,7 +31,7 @@ delft:
 mit:
   logo: /assets/images/partners/mit.svg
   name: "Massachusets Institute of Technology"
-  url: "https://www.tudelft.nl/"
+  url: "https://www.mit.edu/"
   
 ras:
   logo: /assets/images/partners/ras.png
