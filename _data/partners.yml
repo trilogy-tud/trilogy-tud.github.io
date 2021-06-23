@@ -32,3 +32,8 @@ mit:
   logo: /assets/images/partners/mit.svg
   name: "Massachusets Institute of Technology"
   url: "https://www.tudelft.nl/"
+  
+ras:
+  logo: /assets/images/partners/ras.png
+  name: "Researchlab Autonomous Shipping"
+  url: "https://rasdelft.nl/"
