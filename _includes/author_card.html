@@ -1,0 +1,37 @@
+<div itemscope itemtype="https://schema.org/Person" style="display: table-row;">
+    <div style="display: table-column; width: 15%; float:left">
+        {% if author.avatar %}
+            {% if author.home %}
+                <a href="{{ author.home | relative_url }}">
+                    <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
+                </a>
+            {% else %}
+                <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
+            {% endif %}
+        {% endif %}
+    </div>
+    <div style="padding: 0px 0px 0px 10px; vertical-align: top; display: table-cell; height: 100%; float:right; width: 85%">
+        {% if author.home %}
+            <a href="{{ author.home | relative_url }}">
+                <span itemprop="name"><b>{{ author.name }}</b></span><br/>
+            </a>
+        {% else %}
+            <span itemprop="name"><b>{{ author.name }}</b></span><br/>
+        {% endif %}
+        {% if author.bio %}
+            <span itemprop="description"> {{ author.bio}} </span><br/>
+        {% endif %}
+        {% if author.links %}
+            {% for link in author.links %}
+                {% if link.label and link.url %}
+                    <span style="font-size: 80%">
+                        <a href="{{ link.url }}">
+                        <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+                        <span>{{ link.label }}</span><br/>
+                        </a>
+                    </span>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    </div>
+</div>

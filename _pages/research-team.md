@@ -5,16 +5,26 @@ classes: wide
 permalink: /team/
 ---
 
-TU Delft and MIT will collaborate in order to create synergies with the expertise from each side.
+[Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/) and [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) will collaborate in order to create synergies with the expertise from each side.
 TU Delft has expertise in autonomous shipping (Negenborn, Haseltalab), fleet management (Atasoy, Beirigo), robotics and data-driven methodologies for autonomy (Alonso-Mora, Babuska).
-Department of Maritime and Transport Technology at TU Delft is well recognized in the domain of ship design and concepts for intermodal transport and logistics.
-On the MIT side expertise on urban planning (Duarte) together with artificial intelligence and robotics (Rus) has a both complementing and reinforcing nature.
+Department of [Maritime and Transport Technology](https://www.tudelft.nl/en/3me) at TU Delft is well recognized in the domain of ship design and concepts for intermodal transport and logistics.
+On the MIT side, expertise on urban planning (Duarte) together with artificial intelligence and robotics (Rus) has a both complementing and reinforcing nature.
 
 
-<div class="grid__wrapper">
-    {% for author_hash in site.data.authors %}
-    {% assign author = author_hash[1] %}
-    {% assign affiliation = "TU Delft" %}
-    {% include author-cell.html %}
-    {% endfor %}
-</div>
+## Fleet management
+
+{% assign affiliation = "TU Delft" %}
+{% assign module = "Fleet Management" %}
+{% include author_list.html %}
+
+## Autonomous shipping
+
+{% assign affiliation = "TU Delft" %}
+{% assign module = "Automation" %}
+{% include author_list.html %}
+
+## Collaborators
+
+{% assign affiliation = "MIT" %}
+{% assign module = "Automation" %}
+{% include author_list.html %}

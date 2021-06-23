@@ -1,5 +1,5 @@
 bilge:
-  name        : "Bilge Atasoy"
+  name        : "Dr. Bilge Atasoy"
   bio         : "Assistant professor"
   avatar      : "/assets/images/bio/bio-photo-bilge.jpg"
   affiliation : "TU Delft"
@@ -7,13 +7,13 @@ bilge:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:B.Atasoy@tudelft.nl"
-    - label: "Website"
+      url:  "mailto:B.Atasoy@tudelft.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://brenobeirigo.com"
+      url:  "mailto:https://sites.google.com/view/bilgeatasoy/"
 
 javier:
-  name        : "Javiar Alonso-Mora"
+  name        : "Dr. Javiar Alonso-Mora"
   bio         : "Associate professor"
   avatar      : "/assets/images/bio/bio-photo-javier.jpg"
   affiliation : "TU Delft"
@@ -21,41 +21,41 @@ javier:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:J.Alonso-Mora@tudelft.nl"
-    - label: "Website"
+      url:  "mailto:J.Alonso-Mora@tudelft.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://brenobeirigo.com"
+      url:  "mailto:http://www.alonsomora.com/"
 
 rudy:
-  name        : "Rudy R. Negenborn"
-  bio         : "Full Professor of Multi-Machine Operations & Logistics"
+  name        : "Prof. Dr. Rudy R. Negenborn"
+  bio         : "Professor of Multi-Machine Operations & Logistics"
   avatar      : "/assets/images/bio/bio-photo-rudy.jpg"
   affiliation : "TU Delft"
   module      : "Fleet Management"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:R.R.Negenborn@tudelft.nl"
-    - label: "Website"
+      url:  "mailto:R.R.Negenborn@tudelft.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://negenborn.net/"
+      url:  "mailto:https://negenborn.net/"
 
 robert:
-  name        : "Robert Babuska"
-  bio         : "Full Professor of Intelligent Control and Robotics at TU Delft"
+  name        : "Prof. Dr. Robert Babuska"
+  bio         : "Professor of Intelligent Control and Robotics at TU Delft"
   avatar      : "/assets/images/bio/bio-photo-robert.jpg"
   affiliation : "TU Delft"
   module      : "Automation"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:R.R.Negenborn@tudelft.nl"
-    - label: "Website"
+      url:  "mailto:R.Babuska@tudelft.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://negenborn.net/"
+      url:  "mailto:https://www.robertbabuska.com/"
 
 breno:
-  name        : "Breno A. Beirigo"
+  name        : "Dr. Breno A. Beirigo"
   bio         : "Postdoctoral researcher"
   avatar      : "/assets/images/bio/bio-photo-breno.jpg"
   affiliation : "TU Delft"
@@ -63,10 +63,10 @@ breno:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:B.AlvesBeirigo@tudelf.nl"
-    - label: "Website"
+      url:  "mailto:B.AlvesBeirigo@tudelf.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://brenobeirigo.com"
+      url:  "mailto:https://brenobeirigo.com/"
       
 cigdem:
   name        : "Çiğdem Karademir"
@@ -75,12 +75,26 @@ cigdem:
   affiliation : "TU Delft"
   module      : "Fleet Management"
   links:
+    - label: "c.karademir@tudelft.nl"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:c.karademir@tudelft.nl"
+    - label: "Profile"
+      icon: "fas fa-fw fa-link"
+      url:  "mailto:https://www.tudelft.nl/staff/c.karademir/"
+
+ali:
+  name        : "Dr. Ali Haseltalab"
+  bio         : "Postdoctoral researcher"
+  avatar      : "/assets/images/bio/bio-photo-ali.jpg"
+  affiliation : "TU Delft"
+  module      : "Automation"
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:B.Atasoy@tudelft.nl"
-    - label: "Website"
+      url:  "mailto:A.Haseltalab@tudelft.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://brenobeirigo.com"
+      url:  "mailto:https://www.tudelft.nl/staff/a.haseltalab/"
 
 elia:
   name        : "Elia Trevisan"
@@ -91,7 +105,35 @@ elia:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:B.Atasoy@tudelft.nl"
-    - label: "Website"
+      url:  "mailto:B.Atasoy@tudelft.nl"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://brenobeirigo.com"
+      url:  "mailto:https://www.tudelft.nl/staff/e.trevisan/"
+
+daniela:
+  name        : "Prof. Dr. Daniela Rus"
+  bio         : "Professor of Electrical Engineering and Computer Science"
+  avatar      : "/assets/images/bio/bio-photo-daniela.jpg"
+  affiliation : "MIT"
+  module      : "Automation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:rus@csail.mit.edu"
+    - label: "Profile"
+      icon: "fas fa-fw fa-link"
+      url:  "mailto:https://danielarus.csail.mit.edu/"
+
+fabio:
+  name        : "Prof. Dr. Fábio Duarte"
+  bio         : "Principal Research Scientist at the MIT Senseable City Lab"
+  avatar      : "/assets/images/bio/bio-photo-fabio.jpg"
+  affiliation : "MIT"
+  module      : "Automation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:rus@csail.mit.edu"
+    - label: "Profile"
+      icon: "fas fa-fw fa-link"
+      url:  "mailto:https://dusp.mit.edu/faculty/fabio-duarte/"
