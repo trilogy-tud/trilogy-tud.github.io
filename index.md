@@ -63,8 +63,10 @@ feature_row4:
     {% for partner_hash in site.data.partners %}
     {% assign partner = partner_hash[1] %}
     <div class="grid__item">
-        <a style="padding:10px; margin:5px; justify-content: center; align-items: center; display: flex; vertical-align: middle; width:300px; height: 300px;" itemprop="url" href="{{ partner.url }}">   
+        <a itemprop="url" href="{{ partner.url }}">
+          <div style="padding:10px; margin:5px; justify-content: center; align-items: center; display: flex; vertical-align: middle; width:300px; height: 300px;">  
             <img style="" itemprop="logo" src="{{ partner.logo }}" alt="{{ partner.name }}">
+          </div>
         </a>
     </div>
     {% endfor %}
