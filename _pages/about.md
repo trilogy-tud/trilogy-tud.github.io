@@ -6,21 +6,36 @@ permalink: /about/
 ---
 
 TRiLOGy will unlock the potential of transportation and logistics in urban waterways with electric and autonomous vessels by enabling safer, more sustainable and efficient operations.
-In order to achieve this goal, there is a need for a joint investigation on fleet management and autonomous sailing.
-Fleet management should provide the optimized routes to the autonomy side so that data-driven navigation methods generate a safe and detailed trajectory planning.
-The autonomy side should then provide realtime congestion data so that fleet management can use the up-to-date travel times for real-time planning.
-TRiLOGy will develop data-driven navigation methods for urban waterways that take into account the complex dynamics of the vessel and the coordination with other traffic participants.
-For fleet management, strategic and operational level optimization models will be developed that optimize various decisions such as fleet sizing, fleet mix as well as routing and scheduling of the vessels to meet the demand in an efficient
+In order to achieve this goal, there is a need for a joint investigation on *fleet management* and *autonomous sailing*.
+
+## Fleet management
+
+Strategic and operational level optimization models will be developed that optimize various decisions such as fleet sizing, fleet mix as well as routing and scheduling of the vessels to meet the demand in an efficient
 way.
 A special challenge lies in the explicit representation of the stochasticity in the demand and network conditions, the adaptive nature with real-time decisions as well as the integration of behavioral models
 that represent the modal shift towards water.
+Fleet management should provide the optimized routes to the autonomy side so that data-driven navigation methods generate a safe and detailed trajectory planning.
+
+<figure>
+  <img src="/assets/images/watertaxi_rotterdam.jpg" alt="Watertaxi Rotterdam" width="200"/>
+  <figcaption> Trilogy's fleet management module aims to provide optimized routes to the autonomy side for a detailed and safe trajectory planning. </figcaption>
+</figure>
+
+
+
+
+## Autonomous sailing
+
+The autonomy side should then provide realtime congestion data so that fleet management can use the up-to-date travel times for real-time planning.
+TRiLOGy will develop data-driven navigation methods for urban waterways that take into account the complex dynamics of the vessel and the coordination with other traffic participants.
 These methods will be tested with realistic simulations and real-life experiments on different scales of vessels with the involvement of our academic and industrial partners.
-TRiLOGy is expected to contribute to an effective use of waterways and liveability of cities with potential benefits in terms of sustainability with the use of electric vessels; in terms of safety with the developed autonomy; and in terms of efficiency with the optimization of transportation and logistics decisions.
-Both city logistics, in the form of transportation of construction material, and mobility-ondemand, in the form of water-taxis will be considered for applications.
+
+> The autonomy side provides real-time data on congestion and travel times to fleet management for real-time optimization.
+
 
 # Motivation
 
-Waterways have the biggest potential in transportation in terms of sustainability as they imply only 17% of the energy consumption compared to road and 50% compared to rail. However, inland waterways represent only 6-7% of the inland freight transportation and road is still the far most used alternative. This underlines the need for a paradigm shift in inland waterways. Information and Communication Technologies (ICT) are clearly shaping road transportation with real-time data flow, efficient optimization strategies and advances in autonomous driving. This is not happening in the same pace for waterways and TRiLOGy aims to tackle this with the development of scientific methodologies to increase the efficiency, safety and sustainability of transportation and logistics over water.
+Waterways have the biggest potential in transportation in terms of sustainability as they imply only 17% of the energy consumption compared to road and 50% compared to rail. However, inland waterways represent only 6-7% of the inland freight transportation and road is still the far most used alternative. This underlines the need for a paradigm shift in inland waterways. *Information and Communication Technologies* (ICT) are clearly shaping road transportation with real-time data flow, efficient optimization strategies and advances in autonomous driving. This is not happening in the same pace for waterways and TRiLOGy aims to tackle this with the development of scientific methodologies to increase the efficiency, safety and sustainability of transportation and logistics over water.
 
 <figure>
   <img src="/assets/images/about_freight_transport.png" alt="Freight transport in the EU"/>
@@ -46,4 +61,5 @@ To be able to answer this question, the objectives of TRiLOGy are to:
 
 <h1>Methodology and scientific contributions </h1>
 
-TRiLOGy brings together interdisciplinary methodologies in order to reach its objectives. Strategic and operational level models for fleet management are critical in order to match the transportation demand with the right capacity at the right time. Developments on the autonomy side are crucial to enable a safe sailing. These fleet management and autonomy related methodologies need to interact for the success of TRiLOGy. Fleet management provides the optimized routes to the autonomy side for a detailed and safe trajectory planning. The autonomy side provides real-time data on congestion and travel times to fleet management for real-time optimization. Therefore, we have dedicated work packages for fleet management, autonomy and the coordination between them (Figure 2). For the planning and corresponding personnel, see section 11.
+TRiLOGy brings together interdisciplinary methodologies in order to reach its objectives. Strategic and operational level models for fleet management are critical in order to match the transportation demand with the right capacity at the right time. Developments on the autonomy side are crucial to enable a safe sailing. These fleet management and autonomy related methodologies need to interact for the success of TRiLOGy.
+
