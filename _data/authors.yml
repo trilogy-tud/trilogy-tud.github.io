@@ -165,7 +165,7 @@ streichenberg:
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto:stlucas@student.ethz.ch"
 
-streichenberg:
+walter:
   name        : "Walter Jansma"
   bio         : "Msc. Robotics - 3mE/TU Delft (Sep 2021 - Feb 2022)"
   group       : "collaborator"
@@ -176,3 +176,15 @@ streichenberg:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto:walter.jansma@gmail.com"
+
+lars:
+  name        : "Lars Markman"
+  bio         : "Msc. Mechanical Engineering - 3mE/TU Delft (May 2021 - Dez 2021)"
+  group       : "collaborator"
+  avatar      : "/assets/images/bio/bio-photo-markman.jpg"
+  affiliation : "TU Delft"
+  module      : "Fleet Management"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:l.markman@student.tudelft.nl"
