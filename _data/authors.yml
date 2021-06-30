@@ -10,7 +10,7 @@ bilge:
       url:  "mailto:B.Atasoy@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://sites.google.com/view/bilgeatasoy/"
+      url:  "https://sites.google.com/view/bilgeatasoy/"
 
 javier:
   name        : "Dr. Javiar Alonso-Mora"
@@ -24,7 +24,7 @@ javier:
       url:  "mailto:J.Alonso-Mora@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:http://www.alonsomora.com/"
+      url:  "http://www.alonsomora.com/"
 
 rudy:
   name        : "Prof. Dr. Rudy R. Negenborn"
@@ -38,7 +38,7 @@ rudy:
       url:  "mailto:R.R.Negenborn@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://negenborn.net/"
+      url:  "https://negenborn.net/"
 
 robert:
   name        : "Prof. Dr. Robert Babuska"
@@ -52,7 +52,7 @@ robert:
       url:  "mailto:R.Babuska@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://www.robertbabuska.com/"
+      url:  "https://www.robertbabuska.com/"
 
 breno:
   name        : "Dr. Breno A. Beirigo"
@@ -66,7 +66,7 @@ breno:
       url:  "mailto:B.AlvesBeirigo@tudelf.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://brenobeirigo.com/"
+      url:  "https://brenobeirigo.com/"
       
 cigdem:
   name        : "Çiğdem Karademir"
@@ -80,11 +80,12 @@ cigdem:
       url:  "mailto:c.karademir@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://www.tudelft.nl/staff/c.karademir/"
+      url:  "https://www.tudelft.nl/staff/c.karademir/"
 
 ali:
   name        : "Dr. Ali Haseltalab"
   bio         : "Postdoctoral researcher"
+  group       : "collaborator"
   avatar      : "/assets/images/bio/bio-photo-ali.jpg"
   affiliation : "TU Delft"
   module      : "Automation"
@@ -94,7 +95,7 @@ ali:
       url:  "mailto:A.Haseltalab@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://www.tudelft.nl/staff/a.haseltalab/"
+      url:  "https://www.tudelft.nl/staff/a.haseltalab/"
 
 elia:
   name        : "Elia Trevisan"
@@ -108,11 +109,12 @@ elia:
       url:  "mailto:B.Atasoy@tudelft.nl"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://www.tudelft.nl/staff/e.trevisan/"
+      url:  "https://www.tudelft.nl/staff/e.trevisan/"
 
 daniela:
   name        : "Prof. Dr. Daniela Rus"
   bio         : "Professor of Electrical Engineering and Computer Science"
+  group       : "collaborator"
   avatar      : "/assets/images/bio/bio-photo-daniela.jpg"
   affiliation : "MIT"
   module      : "Automation"
@@ -122,11 +124,12 @@ daniela:
       url:  "mailto:rus@csail.mit.edu"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://danielarus.csail.mit.edu/"
+      url:  "https://danielarus.csail.mit.edu/"
 
 fabio:
   name        : "Prof. Dr. Fábio Duarte"
   bio         : "Principal Research Scientist at the MIT Senseable City Lab"
+  group       : "collaborator"
   avatar      : "/assets/images/bio/bio-photo-fabio.jpg"
   affiliation : "MIT"
   module      : "Automation"
@@ -136,4 +139,16 @@ fabio:
       url:  "mailto:rus@csail.mit.edu"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url:  "mailto:https://dusp.mit.edu/faculty/fabio-duarte/"
+      url:  "https://dusp.mit.edu/faculty/fabio-duarte/"
+
+jitske:
+  name        : "Jitske de Vries"
+  bio         : "3mE - MSc. Vehicle Engineering (Nov 2020 - Sep 2021)"
+  group       : "collaborator"
+  avatar      : "/assets/images/bio/bio-photo-jitske.jpg"
+  affiliation : "TU Delft"
+  module      : "Automation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:J.M.deVries-1@student.tudelft.nl"
