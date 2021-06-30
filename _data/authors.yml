@@ -181,7 +181,7 @@ lars:
   name        : "Lars Markman"
   bio         : "Msc. Mechanical Engineering - 3mE/TU Delft (May 2021 - Dez 2021)"
   group       : "collaborator"
-  avatar      : "/assets/images/bio/bio-photo-markman.jpg"
+  avatar      : "/assets/images/bio/bio-photo-lars.jpg"
   affiliation : "TU Delft"
   module      : "Fleet Management"
   links:
