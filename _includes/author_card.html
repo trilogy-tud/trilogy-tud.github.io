@@ -19,7 +19,10 @@
             <span itemprop="name"><b>{{ author.name }}</b></span><br/>
         {% endif %}
         {% if author.bio %}
-            <span itemprop="description"> {{ author.bio}} </span><br/>
+            <span itemprop="description"> {{ author.bio }} </span> <span itemprop="period"> {{ author.period }} </span><br/>
+        {% endif %}
+        {% if author.affiliation %}
+            <span itemprop="department"> {{ author.department }} </span><span itemprop="affiliation"> {{ author.affiliation }} </span><br/>
         {% endif %}
         {% if author.links %}
             {% for link in author.links %}

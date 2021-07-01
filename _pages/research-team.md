@@ -13,18 +13,18 @@ On the MIT side, expertise on urban planning (Duarte) together with artificial i
 
 ## Fleet management
 
-{% assign affiliation = "TU Delft" %}
+{% assign group = "main" %}
 {% assign module = "Fleet Management" %}
 {% include author_list.html %}
 
 ## Autonomous shipping
 
-{% assign affiliation = "TU Delft" %}
+{% assign group = "main" %}
 {% assign module = "Automation" %}
 {% include author_list.html %}
 
 ## Collaborators
 
-{% assign affiliation = "MIT" %}
+{% assign group = "collaborator" %}
 {% assign module = "Automation" %}
 {% include author_list.html %}

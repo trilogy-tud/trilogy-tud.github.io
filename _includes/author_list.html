@@ -1,7 +1,7 @@
 <div style="display:table;width: 100%">
     {% for author_hash in site.data.authors %}
         {% assign author = author_hash[1] %}
-        {% if author.affiliation == affiliation and author.module == module %}
+        {% if author.group == group and author.module == module %}
            {% include author_card.html %}
             <br/>
         {% endif %}

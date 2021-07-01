@@ -1,8 +1,10 @@
 bilge:
   name        : "Dr. Bilge Atasoy"
-  bio         : "Assistant professor - 3mE/TU Delft"
+  bio         : "Assistant professor"
   avatar      : "/assets/images/bio/bio-photo-bilge.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Fleet Management"
   links:
     - label: "Email"
@@ -14,9 +16,11 @@ bilge:
 
 javier:
   name        : "Dr. Javiar Alonso-Mora"
-  bio         : "Associate professor - 3mE/TU Delft"
+  bio         : "Associate professor"
   avatar      : "/assets/images/bio/bio-photo-javier.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -28,9 +32,11 @@ javier:
 
 rudy:
   name        : "Prof. Dr. Rudy R. Negenborn"
-  bio         : "Professor of Multi-Machine Operations & Logistics - 3mE/TU Delft"
+  bio         : "Professor of Multi-Machine Operations & Logistics"
   avatar      : "/assets/images/bio/bio-photo-rudy.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Fleet Management"
   links:
     - label: "Email"
@@ -42,9 +48,11 @@ rudy:
 
 robert:
   name        : "Prof. Dr. Robert Babuska"
-  bio         : "Professor of Intelligent Control and Robotics - 3mE/TU Delft"
+  bio         : "Professor of Intelligent Control and Robotics"
   avatar      : "/assets/images/bio/bio-photo-robert.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -56,9 +64,11 @@ robert:
 
 breno:
   name        : "Dr. Breno A. Beirigo"
-  bio         : "Postdoctoral researcher - 3mE/TU Delft"
+  bio         : "Postdoctoral researcher"
   avatar      : "/assets/images/bio/bio-photo-breno.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Fleet Management"
   links:
     - label: "Email"
@@ -70,12 +80,14 @@ breno:
       
 cigdem:
   name        : "Çiğdem Karademir"
-  bio         : "PhD candidate - 3mE/TU Delft"
+  bio         : "PhD candidate"
   avatar      : "/assets/images/bio/bio-photo-cigdem.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Fleet Management"
   links:
-    - label: "c.karademir@tudelft.nl"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto:c.karademir@tudelft.nl"
     - label: "Profile"
@@ -84,10 +96,11 @@ cigdem:
 
 ali:
   name        : "Dr. Ali Haseltalab"
-  bio         : "Postdoctoral researcher - 3mE/TU Delft"
-  group       : "collaborator"
+  bio         : "Postdoctoral researcher"
   avatar      : "/assets/images/bio/bio-photo-ali.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -99,9 +112,11 @@ ali:
 
 elia:
   name        : "Elia Trevisan"
-  bio         : "PhD candidate - 3mE/TU Delft"
+  bio         : "PhD candidate"
   avatar      : "/assets/images/bio/bio-photo-elia.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -113,9 +128,10 @@ elia:
 
 daniela:
   name        : "Prof. Dr. Daniela Rus"
-  bio         : "Professor of Electrical Engineering and Computer Science - MIT"
+  bio         : "Professor of Electrical Engineering and Computer Science"
   group       : "collaborator"
   avatar      : "/assets/images/bio/bio-photo-daniela.jpg"
+  department  : ""
   affiliation : "MIT"
   module      : "Automation"
   links:
@@ -128,9 +144,10 @@ daniela:
 
 fabio:
   name        : "Prof. Dr. Fábio Duarte"
-  bio         : "Principal Research Scientist - Senseable City Lab/MIT"
+  bio         : "Principal Research Scientist"
   group       : "collaborator"
   avatar      : "/assets/images/bio/bio-photo-fabio.jpg"
+  department  : "Senseable City Lab /"
   affiliation : "MIT"
   module      : "Automation"
   links:
@@ -143,10 +160,12 @@ fabio:
 
 jitske:
   name        : "Jitske de Vries"
-  bio         : "MSc. Vehicle Engineering - 3mE/TU Delft (Nov 2020 - Sep 2021)"
-  group       : "collaborator"
+  bio         : "MSc. Vehicle Engineering"
   avatar      : "/assets/images/bio/bio-photo-jitske.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  period      : "(Nov 20 - Sep 21)"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -155,10 +174,12 @@ jitske:
 
 streichenberg:
   name        : "Streichenberg Lucas"
-  bio         : "Research Assistant at Autonomous Systems Lab - ETH (Sep 2021 - Feb 2022)"
-  group       : "collaborator"
+  bio         : "Research Assistant"
   avatar      : "/assets/images/bio/bio-photo-streichenberg.jpg"
+  department  : "Autonomous Systems Lab /"
   affiliation : "ETH"
+  period      : "(Sep 21 - Feb 22)"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -167,10 +188,12 @@ streichenberg:
 
 walter:
   name        : "Walter Jansma"
-  bio         : "Msc. Robotics - 3mE/TU Delft (Sep 2021 - Feb 2022)"
-  group       : "collaborator"
+  bio         : "MSc. Robotics"
   avatar      : "/assets/images/bio/bio-photo-walter.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  period      : "(Sep 21 - Feb 22)"
+  group       : "main"
   module      : "Automation"
   links:
     - label: "Email"
@@ -179,10 +202,12 @@ walter:
 
 lars:
   name        : "Lars Markman"
-  bio         : "Msc. Mechanical Engineering - 3mE/TU Delft (May 2021 - Dez 2021)"
-  group       : "collaborator"
+  bio         : "MSc. Mechanical Engineering"
   avatar      : "/assets/images/bio/bio-photo-lars.jpg"
+  department  : "3mE /"
   affiliation : "TU Delft"
+  period      : "(May 21 - Dez 21)"
+  group       : "main"
   module      : "Fleet Management"
   links:
     - label: "Email"
