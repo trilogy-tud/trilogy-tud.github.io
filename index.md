@@ -30,7 +30,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/automation.jpeg
     image_caption: "Image courtesy of [AMS/MIT](https://roboat.org/)"
-    alt: "placeholder image 2"
+    alt: "Automation module"
     title: "Automation"
     excerpt: 'This module aims to develop autonomy tools for navigation in inland waterways, among other manned and unmanned vessels. The main challenges to ensure safe and efficient navigation of autonomous vessels in urban waters is that of generating safe trajectories that (i) take into account the goals expressed by the high-level integrated strategy, (ii) take into account the complex dynamics of the vessel and (iii) coordinate with other traffic participants.'
     url: "#test-link"
