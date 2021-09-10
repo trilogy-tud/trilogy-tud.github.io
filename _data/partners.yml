@@ -9,17 +9,17 @@ ams:
   url: "https://www.ams-institute.org/"
 
 ff:
-  logo: /assets/images/partners/ff.svg
+  logo: /assets/images/partners/ff.png
   name: "Flying Fish"
   url: "https://www.flying-fish.tech/"
 
 demcon:
-  logo: /assets/images/partners/demcon.jpg
+  logo: /assets/images/partners/demcon.png
   name: "Municipality of Amsterdam"
   url: "https://demcon.com/"
 
 zoev:
-  logo: /assets/images/partners/zoev.jpg
+  logo: /assets/images/partners/zoev.png
   name: "AMS Institute"
   url: "https://www.zoevcity.nl/"
 
