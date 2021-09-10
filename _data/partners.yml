@@ -28,10 +28,10 @@ delft:
   name: "Delft University of Technology"
   url: "https://www.tudelft.nl/"
 
-mit:
-  logo: /assets/images/partners/mit.svg
-  name: "Massachusets Institute of Technology"
-  url: "https://www.mit.edu/"
+# mit:
+#  logo: /assets/images/partners/mit.svg
+#  name: "Massachusets Institute of Technology"
+#  url: "https://www.mit.edu/"
   
 ras:
   logo: /assets/images/partners/ras.png
