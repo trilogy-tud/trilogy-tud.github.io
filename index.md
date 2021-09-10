@@ -29,6 +29,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/automation.jpeg
+    image_caption: "Image courtesy of [AMS/MIT](https://roboat.org/)"
     alt: "placeholder image 2"
     title: "Automation"
     excerpt: 'This module aims to develop autonomy tools for navigation in inland waterways, among other manned and unmanned vessels. The main challenges to ensure safe and efficient navigation of autonomous vessels in urban waters is that of generating safe trajectories that (i) take into account the goals expressed by the high-level integrated strategy, (ii) take into account the complex dynamics of the vessel and (iii) coordinate with other traffic participants.'
@@ -37,6 +38,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/fleet_management.png
+    image_caption: "Image courtesy of [AMS/MIT](https://roboat.org/)"
     alt: "Fleet management module"
     title: "Fleet management"
     excerpt: 'This module aims for strategic and operational level fleet management methodologies. These two levels need to interact: operational level needs to use the long-term decisions from the strategic level as an input and strategic level needs time and cost estimations from the operational level to represent the share of water transportation among other modes.'
